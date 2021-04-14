@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-14T09:55:25 IST" name="Default suite" finished-at="2021-04-14T09:55:53 IST" duration-ms="27558">
+    <groups>
+    </groups>
+    <test started-at="2021-04-14T09:55:25 IST" name="Default test" finished-at="2021-04-14T09:55:53 IST" duration-ms="27558">
+      <class name="com.vtiger.CreatecontactWithIntegration">
+        <test-method signature="createOrg()[pri:0, instance:com.vtiger.CreatecontactWithIntegration@c03cf28]" started-at="2021-04-14T09:55:26 IST" name="createOrg" finished-at="2021-04-14T09:55:53 IST" duration-ms="27490" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrg -->
+      </class> <!-- com.vtiger.CreatecontactWithIntegration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
